@@ -10,6 +10,7 @@ clear;
 close all;
 clc
 
+% !!!!!!!!!!!!!!! PLEASE RUN ALL THE FUNCTIONS BEFORE RUNING THE main.m CODE !!!!!!!!!!!!!!!!!!
 addpath = "C:\Users\User\Desktop\Iñaki\Fisika\Master\MASE\Courses\Computational_Engineering\Assigments\1D_FEM_Elements\code\functions\";
 %=======================================
 % Define input data
