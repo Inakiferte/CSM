@@ -15,6 +15,7 @@ In this directory there are 7 codes:
 6- functions/sigma_analytical.m : function for the analytical expression of sigma.
 7- functions/u_analytical.m : function for the analytical expression of u.
 
+!!!!!!!!!!!!!!! PLEASE RUN ALL THE FUNCTIONS BEFORE RUNING THE main.m CODE !!!!!!!!!!!!!!!!!!
 
 The results will be plotted after the compilation of the main.m code. Make sure that all the functions are stored in function/ directory. Also make sure to add to your path the functions/ directory or you can put all the functions in the same direcotry where main.m is stored.
 
